@@ -1,3 +1,18 @@
 body {
     font-family: sans-serif;
 }
+
+a {
+    text-decoration: none;
+}
+
+div.tocset, div.versionbox {
+    display: none;
+}
+
+img.state-diagram {
+    width: 75%;
+    height: 150%;
+    align: center;
+}
+
